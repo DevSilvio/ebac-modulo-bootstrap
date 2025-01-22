@@ -1,3 +1,13 @@
-table {
-    max-width: 500px;
+.img {
+    background-color: #ccc;
+    height: 180px;
+    width: 180px;
+}
+
+time {
+    display: block;
+}
+
+.post {
+    margin-bottom: 24px;
 }
